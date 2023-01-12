@@ -9,9 +9,9 @@
 5. Expenses Tracker
 6. Flash Cards
 7. Form Validator
-8. Hangman Game 
+8. Hangman Game
 9. Infinite Scroll Blog
-10. Lyrics Search App 
+10. Lyrics Search App
 11. Meal Finder
 12. Modal Menu Slider
 13. Movie Seat Booking
@@ -20,3 +20,5 @@
 16. Relexer App
 17. Sortable List
 18. Speaking Number Guess
+19. Speech Text Reader
+20. Typing Game
